@@ -5,5 +5,5 @@
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=TM22N023&count_private=true&show_icons=true&show_icons=true&theme=onedark" />
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username={名前}&theme=onedark&column=7
+[![trophy](https://github-profile-trophy.vercel.app/?username=TM22N023&theme=onedark&column=7
 )](https://github.com/ryo-ma/github-profile-trophy)
